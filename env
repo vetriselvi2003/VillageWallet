@@ -1,0 +1,21 @@
+# WhatsApp Business API
+WHATSAPP_TOKEN=your_whatsapp_business_token
+PHONE_NUMBER_ID=your_phone_number_id
+WEBHOOK_VERIFY_TOKEN=gramfinance_webhook_2024
+META_APP_SECRET=your_meta_app_secret
+
+# OpenAI for AI Processing
+OPENAI_API_KEY=your_openai_api_key
+
+# Blockchain Configuration
+POLYGON_RPC_URL=https://polygon-mumbai.g.alchemy.com/v2/your_key
+PRIVATE_KEY=your_wallet_private_key
+CONTRACT_ADDRESS=your_deployed_contract_address
+
+# Database
+DATABASE_URL=sqlite:///gramfinance.db
+
+# Application
+FLASK_ENV=development
+FLASK_DEBUG=True
+SECRET_KEY=your_secret_key_here
